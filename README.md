@@ -49,7 +49,7 @@ Deployed on **Streamlit Cloud**
 
 - **DHINESH K**
 - 🎓 B.Tech IT @ Ramco Institute of Technology
-- 📫 dhineshk0202@gmail.com
+- 📫 dhineshksdp@gmail.com
 
 ---
 
