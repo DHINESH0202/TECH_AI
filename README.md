@@ -5,7 +5,7 @@ Welcome to **DHINESH's AI App** – a simple and interactive web app built with 
 - ✍️ Generate text using AI
 - 🔊 Convert text to speech (TTS)
 
-🔗 **Live Demo**: [Click here to try it out](https://dhinesh-ai-34h6swvq5i5qz8czrajvrv.streamlit.app)
+🔗 **Live Demo**: [Click here to try it out](https://dhinesh-ai-34h6svwq5i5qz8czrajvrv.streamlit.app/)
 
 ---
 
